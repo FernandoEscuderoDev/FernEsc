@@ -4,9 +4,9 @@
 <img align="right" height="380px" width="300px" src="https://c.tenor.com/WyeIC4hSFUwAAAAC/anime-hi.gif" alt="Totoro saludando"/>
 
 
-- 🤖 **Estudiante autodidacta de desarrollo web**
+- 🤖 **Estudiante de desarrollo web**
 
-- 🐱‍💻 **Actualmente estudiando en Argentina Programa y ONE–Oracle Next Education**
+- 🐱‍💻 **Actualmente estudiando en Argentina Programa y ONE–Oracle**
 
 - 🐱‍👤 **I love Cats and music**
 
