@@ -1,7 +1,9 @@
 <h1 align="center">Hola me llamo Fernando!! 👋</h1>
 <h3 align="center">Fernando Escudero - Front-End Developer</h3>
-<br> 
-<img align="right" height="380px" width="300px" src="https://c.tenor.com/WyeIC4hSFUwAAAAC/anime-hi.gif" alt="Totoro saludando"/>
+
+--- 
+
+<img align="right" height="360px" width="300px" src="https://c.tenor.com/WyeIC4hSFUwAAAAC/anime-hi.gif" alt="Totoro saludando"/>
 
 
 - 🤖 **Estudiante de desarrollo web**
@@ -28,6 +30,10 @@
 <a href="https://linkedin.com/in/fernandoescuderodev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela-pacheco-abarcia" height="30"/></a>
 <a href="mailto:fernando.andres.escudero@gmail.com" target="_blank"><img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/11/Gmail-Logo.png" alt="correo gmail" height="30" /></a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoEscuderoDev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Readme inspirado en el perfil de GabrielaDana -->
+---
+
+![FernandoEscuderoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoEscuderoDev&show_icons=true&theme=radical)
+
+
