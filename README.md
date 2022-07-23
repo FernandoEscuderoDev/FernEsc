@@ -3,7 +3,7 @@
 
 --- 
 
-<img align="right" height="350px" width="300px" src="https://c.tenor.com/WyeIC4hSFUwAAAAC/anime-hi.gif" alt="Totoro saludando"/>
+<img align="right" height="340px" width="300px" src="https://c.tenor.com/WyeIC4hSFUwAAAAC/anime-hi.gif" alt="Totoro saludando"/>
 
 
 - 🤖 **Estudiante de desarrollo web**
