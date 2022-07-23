@@ -6,7 +6,7 @@
 
 - 🤖 **Estudiante autodidacta de desarrollo web**
 
-- 🐱‍💻 **Actualmente trabajando en mejorar mis Skill**
+- 🐱‍💻 **Actualmente estudiando en Argentina Programa y ONE–Oracle Next Education**
 
 - 🐱‍👤 **I love Cats and music**
 
