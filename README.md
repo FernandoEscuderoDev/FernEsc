@@ -1,7 +1,7 @@
 <h1 align="center">Hola me llamo Fernando!! 👋</h1>
 <h3 align="center">Fernando Escudero - Front-End Developer</h3>
 <br> 
-<img align="right" height="380px" width="330px" src="https://c.tenor.com/WyeIC4hSFUwAAAAC/anime-hi.gif" alt="Totoro saludando"/>
+<img align="right" height="380px" width="300px" src="https://c.tenor.com/WyeIC4hSFUwAAAAC/anime-hi.gif" alt="Totoro saludando"/>
 
 
 - 🤖 **Estudiante autodidacta de desarrollo web**
