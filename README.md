@@ -27,7 +27,6 @@
 <h3 align="center">Redes y contacto:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fernandoescuderodev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela-pacheco-abarcia" height="30"/></a>
-<a href="mailto:fernando.andres.escudero@gmail.com" target="_blank"><img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/11/Gmail-Logo.png" alt="correo gmail" height="30" /></a>
 </p>
 
 <!-- Readme inspirado en el perfil de GabrielaDana -->
