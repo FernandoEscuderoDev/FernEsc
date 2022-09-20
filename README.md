@@ -3,14 +3,12 @@
 
 --- 
 
-<img align="right" height="350px" width="300px" src="https://c.tenor.com/WyeIC4hSFUwAAAAC/anime-hi.gif" alt="Totoro saludando"/>
+<img align="right" height="310px" width="300px" src="https://c.tenor.com/WyeIC4hSFUwAAAAC/anime-hi.gif" alt="Totoro saludando"/>
 
 
 - 🤖 **Estudiante de desarrollo web**
 
 - 🐱‍💻 **Actualmente estudiando en Argentina Programa y ONE–Oracle**
-
-- 🐱‍👤 **I love Cats and music**
 
 - 🌸 **Me encanta ver peliculas y mas si son del Studio Ghibli**
 
