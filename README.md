@@ -32,7 +32,3 @@
 
 <!-- Readme inspirado en el perfil de GabrielaDana -->
 ---
-
-![FernandoEscuderoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoEscuderoDev&show_icons=true&theme=radical)
-
-
