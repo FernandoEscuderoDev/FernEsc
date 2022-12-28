@@ -1,12 +1,12 @@
 <h1 align="center">Hola me llamo Fernando!! 👋</h1>
-<h3 align="center">FernDev - Front-End Developer</h3>
+<h2 align="center">FernDev - Front-End Developer</h2>
 
 --- 
 
 <img align="right" height="310px" width="300px" src="https://c.tenor.com/WyeIC4hSFUwAAAAC/anime-hi.gif" alt="Totoro saludando"/>
 
 
-- 🤖 **Estudiante Front-End**
+- 🤖 **Desarrollador Front-End**
 
 - 🐱‍💻 **Actualmente estudiando en Argentina Programa y ONE–Oracle**
 
