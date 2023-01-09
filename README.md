@@ -1,8 +1,6 @@
 <h1 align="center">Hola me llamo Fernando!! 👋</h1>
 <h2 align="center">FernDev - Front-End Developer</h2>
 
---- 
-
 <img align="right" height="310px" width="300px" src="https://c.tenor.com/WyeIC4hSFUwAAAAC/anime-hi.gif" alt="Totoro saludando"/>
 
 
@@ -13,7 +11,7 @@
 - 🌸 **Me encanta ver peliculas y mas si son del Studio Ghibli**
 
 
-<h3 align="center">Lenguajes y herramientas:</h3>
+<h2 align="center">Lenguajes y herramientas:</h3>
 
 
 <div align="left">
@@ -26,20 +24,20 @@
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </div>
 
-<h3 align="center">Redes y contacto:</h3>
+<h2 align="center">Redes y contacto:</h3>
 
 <a href="https://linkedin.com/in/fernandoescuderodev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela-pacheco-abarcia" height="30"/></a>
 
 <!-- Readme inspirado en el perfil de GabrielaDana -->
 ---
 <div align="center">
-<h3>Github Stats</h3>
+<h2>Github Stats</h3>
 <br>
 <img height="180rem"
       src="https://github-readme-stats.vercel.app/api?username=FernandoEscuderoDev&count_private=true&show_icons=true&theme=dark&hide_border=false&hide_title=false"
       alt="my github stats" />
 
-<h3 >Lenguajes Stats</h3>
+<h2>Lenguajes Stats</h3>
 <br>
 <img height="250rem"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoEscuderoDev&title_color=ffffff&text_color=c9facc&icon_color=2bFc6a&bg_color=1d1f21"
