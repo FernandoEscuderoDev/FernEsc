@@ -35,13 +35,13 @@
 <div align="center">
 <h3>Github Stats</h3>
 <br>
-<img style="margin-left: 40px;"  height="140em"
+<img height="250rem"
       src="https://github-readme-stats.vercel.app/api?username=FernandoEscuderoDev&count_private=true&show_icons=true&theme=dark&hide_border=false&hide_title=false"
       alt="my github stats" />
 
-<h3 align="center">Lenguajes Stats</h3>
+<h3 >Lenguajes Stats</h3>
 <br>
-<img style="margin-left: 40px;" height="250em"
+<img height="250rem"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoEscuderoDev&title_color=ffffff&text_color=c9facc&icon_color=2bFc6a&bg_color=1d1f21"
       alt="Lenguajes mas usados en mi github" />
 </div>
