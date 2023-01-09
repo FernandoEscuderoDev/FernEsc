@@ -35,7 +35,7 @@
 <div align="center">
 <h3>Github Stats</h3>
 <br>
-<img height="250rem"
+<img height="150rem"
       src="https://github-readme-stats.vercel.app/api?username=FernandoEscuderoDev&count_private=true&show_icons=true&theme=dark&hide_border=false&hide_title=false"
       alt="my github stats" />
 
