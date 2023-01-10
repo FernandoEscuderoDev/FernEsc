@@ -24,6 +24,7 @@
  <img src="https://raw.githubusercontent.com/withastro/astro/main/assets/brand/logo-square-white.png" alt="Astro" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/2f7d9c653bd1edd735b3db07d7c4b47ae45959e17c14053fa4f543ac93cc1a8c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" alt="VS Code" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+ <img src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" alt="figma" width="40" height="40"/>
 </div>
 
 <h2 align="center">Redes y contacto:</h3>
