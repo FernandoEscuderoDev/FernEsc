@@ -10,7 +10,7 @@
 
 - 🐱‍💻 **Actualmente estudiando en Argentina Programa y ONE–Oracle**
 
-- 🌸 **Me encanta ver peliculas y mas si son del Studio Ghibli**
+- 🌸 **Me encanta ver peliculas y más si son del Studio Ghibli**
 
 
 <h2 align="center">Lenguajes y herramientas:</h3>
