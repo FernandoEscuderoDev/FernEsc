@@ -8,7 +8,7 @@
 
 - 🤖 **Desarrollador Front-End**
 
-- 🐱‍💻 **Actualmente estudiando en Argentina Programa y ONE–Oracle**
+- 🐱‍💻 **Actualmente estudiando Next.js y Chakra ui**
 
 - 🌸 **Me encanta ver peliculas y más si son del Studio Ghibli**
 
